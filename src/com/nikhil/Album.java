@@ -16,10 +16,6 @@ public class Album {
 		this.songs = new ArrayList<Song>();
 	}
 	
-//	public Album() {
-//		
-//	}
-	
 
 	public Song findSong(String title) {
 		
